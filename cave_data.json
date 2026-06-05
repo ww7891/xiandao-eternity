@@ -1,0 +1,32 @@
+{
+  "herb_garden": {
+    "level": 1,
+    "exp": 0,
+    "fields": [
+      {
+        "seed": null,
+        "plant_time": 0,
+        "growth_progress": 0,
+        "harvestable": false
+      },
+      {
+        "seed": null,
+        "plant_time": 0,
+        "growth_progress": 0,
+        "harvestable": false
+      }
+    ],
+    "seeds_inventory": {},
+    "herbs_inventory": {}
+  },
+  "spirit_array": {
+    "level": 0,
+    "materials_collected": {}
+  },
+  "apprentice": {
+    "active": false,
+    "start_time": 0,
+    "end_time": 0
+  },
+  "last_update": 1780237243.846651
+}

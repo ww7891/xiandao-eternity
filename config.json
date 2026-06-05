@@ -1,0 +1,89 @@
+{
+  "game": {
+    "title": "仙道永恒",
+    "version": "1.0.0",
+    "author": "修仙工作室"
+  },
+  "display": {
+    "width": 1280,
+    "height": 720,
+    "fullscreen": false,
+    "fps": 60
+  },
+  "font": {
+    "primary": "assets/fonts/STXINGKA.TTF",
+    "fallback": "assets/fonts/simhei.ttf",
+    "title_size": 84,
+    "large_size": 48,
+    "medium_size": 32,
+    "small_size": 24,
+    "button_size": 28
+  },
+  "colors": {
+    "background": [245, 240, 228],
+    "panel_background": [232, 227, 214, 220],
+    "title_gold": [30, 25, 15],
+    "text_primary": [50, 40, 25],
+    "text_secondary": [100, 90, 75],
+    "button_normal": [45, 38, 28],
+    "button_hover": [60, 50, 35],
+    "button_active": [80, 70, 50],
+    "button_text": [210, 200, 180],
+    "accent_cyan": [80, 70, 55],
+    "accent_purple": [100, 85, 65],
+    "border_color": [60, 50, 35]
+  },
+  "ui": {
+    "panel_width": 300,
+    "panel_height": 180,
+    "button_border_radius": 12,
+    "panel_border_radius": 16,
+    "border_width": 2,
+    "return_button_width": 120,
+    "return_button_height": 40
+  },
+  "modules": [
+    {
+      "id": "character",
+      "name": "人物",
+      "description": "查看角色属性、境界、修为",
+      "icon": "👤"
+    },
+    {
+      "id": "inventory",
+      "name": "背包",
+      "description": "物品、材料、丹药",
+      "icon": "🎒"
+    },
+    {
+      "id": "equipment",
+      "name": "装备",
+      "description": "当前装备与装备槽位",
+      "icon": "⚔"
+    },
+    {
+      "id": "battle",
+      "name": "战斗",
+      "description": "进入战斗界面",
+      "icon": "⚡"
+    },
+    {
+      "id": "craft",
+      "name": "炼制",
+      "description": "炼丹、炼器、绘符",
+      "icon": "🔥"
+    },
+    {
+      "id": "cave",
+      "name": "洞府",
+      "description": "修炼洞府",
+      "icon": "🏔"
+    },
+    {
+      "id": "treasure",
+      "name": "藏宝阁",
+      "description": "宝物收藏",
+      "icon": "💎"
+    }
+  ]
+}

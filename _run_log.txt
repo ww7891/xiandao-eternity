@@ -1,0 +1,12 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.8)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+功法库已生成，共 65 本功法
+✅ 配置文件加载成功
+✅ 配置文件加载成功: C:\Users\22522\Desktop\新建文件夹 (7)\config.json
+✅ 游戏初始化完成 - 仙道永恒 v1.0.0
+📺 屏幕大小: 1280x720
+🔤 字体路径: C:/Windows/Fonts/STXINGKA.TTF
+🎮 游戏启动中...
+==================================================
+✅ 配置文件加载成功: C:\Users\22522\Desktop\新建文件夹 (7)\config.json
+水墨标题界面初始化完成

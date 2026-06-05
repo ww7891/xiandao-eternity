@@ -1,0 +1,15 @@
+{
+  "audio": {
+    "main_menu_volume": 50,
+    "battle_volume": 50,
+    "master_volume": 100
+  },
+  "display": {
+    "fullscreen": false,
+    "resolution": "1280x720"
+  },
+  "gameplay": {
+    "difficulty": "normal",
+    "language": "zh_CN"
+  }
+}
