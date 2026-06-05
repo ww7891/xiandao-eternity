@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+saves/
+.claude/
+sprites/__pycache__/
+test_*
+verify_*
+*.md
+.buildozer/
+bin/
+venv/
+.env/
+*.egg-info/
+dist/
+build/
